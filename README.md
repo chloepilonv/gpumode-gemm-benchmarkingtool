@@ -27,3 +27,6 @@ streamlit run gemm_benchmark_tritonvstorch.py
 
 ## What it should look like !
 ![App Screenshot](Image_Example.png)
+
+## License
+Under MIT License, see LICENSE
